@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/P-auBUT0T2q7DM4KHl1IvA/badge)](https://hackmd.io/P-auBUT0T2q7DM4KHl1IvA)
 {%hackmd j1-jtNWMSlW8Hpfz6P2p4g %}
 # vi/vim
 關於 vim 的操作
